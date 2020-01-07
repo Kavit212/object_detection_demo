@@ -1,0 +1,26 @@
+<annotation>
+	<folder>02_August_Gesa</folder>
+	<filename>em_265.jpg</filename>
+	<path>D:\ClarissaArbeit\EM\02_Exp\03_Methoden\02_Machine learningKavitha\03_ModifiedAnnotationsClarissa\02_August_Gesa\em_265.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>enveloped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>976</ymin>
+			<xmax>992</xmax>
+			<ymax>1279</ymax>
+		</bndbox>
+	</object>
+</annotation>

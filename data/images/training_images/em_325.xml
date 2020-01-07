@@ -1,0 +1,38 @@
+<annotation>
+	<folder>03_September_Gesa</folder>
+	<filename>em_325.jpg</filename>
+	<path>D:\ClarissaArbeit\EM\02_Exp\03_Methoden\02_Machine learningKavitha\03_ModifiedAnnotationsClarissa\03_September_Gesa\em_325.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>budding</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>843</xmin>
+			<ymin>354</ymin>
+			<xmax>901</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>budding</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1317</xmin>
+			<ymin>252</ymin>
+			<xmax>1373</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>
